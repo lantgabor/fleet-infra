@@ -7,3 +7,6 @@ metadata:
 spec:
   interval: 5m0s
   url: https://kubernetes.github.io/dashboard/
+  chart:
+    spec:
+      chart: kubernetes-dashboard
