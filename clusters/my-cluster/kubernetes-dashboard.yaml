@@ -25,3 +25,5 @@ spec:
       interval: 5m
   values:
     replicaCount: 1
+    service:
+      externalPort: 8080
